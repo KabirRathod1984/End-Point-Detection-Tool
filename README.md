@@ -39,3 +39,13 @@ alerts.jsonl
   New outbound connection
   PID=1234 → 45.67.89.10:4444 (uncommon port)
 ```
+
+## 🔄 Next Update (Work in Progress)
+
+I am currently working on:
+
+- Splitting the tool into Agent + Server architecture to support multi-endpoint monitoring.
+
+- Building a lightweight server to collect alerts from multiple agents.
+
+- Preparing for a future visualize alerts in real-time.
