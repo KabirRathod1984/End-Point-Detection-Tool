@@ -40,7 +40,7 @@ alerts.jsonl
   PID=1234 → 45.67.89.10:4444 (uncommon port)
 ```
 
-## 🔄 Next Update (Work in Progress)
+## 🔄 Next Update (In Progress)
 
 I am currently working on:
 
