@@ -25,7 +25,7 @@ cd endpoint-monitor-tool
 
 ## ▶️ Usage
 ```bash
-sudo ./e-ptool.py --monitor --interval 3
+sudo ./End-PointCyspy.py --monitor --interval 3
 ```
 
 ## 📂 Alerts
